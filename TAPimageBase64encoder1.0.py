@@ -1,4 +1,4 @@
-# TAP image base64 encoder
+# TAP image base64 encoder version 1.0
 # Work perfectly
 # 15 July 2017
 # use with any image file type

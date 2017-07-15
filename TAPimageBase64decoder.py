@@ -1,5 +1,6 @@
-#TAP image base64 decoder
-#Work perfectly
+# TAP image base64 decoder
+# Work perfectly
+# but file .txt must only contain base64 code, not "data:image/..."
 import base64
 txt_file_path = input("Type in your txt file path:\n")
 txt_file = open(txt_file_path, 'rb') #open binary file in read mode
