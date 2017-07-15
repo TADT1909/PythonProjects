@@ -1,2 +1,2 @@
-# PythonProjects
-Collection of Python codes
+# Python Projects
+Collection of Python3 codes
