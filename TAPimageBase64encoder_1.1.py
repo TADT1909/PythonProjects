@@ -1,5 +1,5 @@
 # TAP image base64 encoder version 1.1
-# Work perfectly
+# Being Developed
 # 15 July 2017
 # use with any image file type
 # output to .txt file and clipboard
