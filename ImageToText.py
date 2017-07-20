@@ -38,7 +38,7 @@ def convert(num) :
 size = 200 #need to customize
 
 filename = ""
-filename = input("Nhap vao ten file (Chu y de cung folder voi chuong trinh) \n Filename : ")
+filename = input("File Name? ")
 
 image = Image.open(filename).convert('L')
 width, height = image.size
